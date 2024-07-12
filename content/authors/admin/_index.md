@@ -24,27 +24,27 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UCD, Smurfit Business School
+    url: https://www.smurfitschool.ie/ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kostas.stouras@ucd.ie'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/stourask
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: ''
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: ''
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=FzyFf3kAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2398-9566 
 
 interests:
   - Artificial Intelligence
@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Technology and Operations Management
     institution: INSEAD
     date_start: 2016-01-01
     date_end: 2020-12-31
