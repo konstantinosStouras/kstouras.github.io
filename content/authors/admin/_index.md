@@ -3,11 +3,11 @@
 title: Kostas Stouras
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Konstantinos
+last_name: Stouras
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
+    institution: INSEAD
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
