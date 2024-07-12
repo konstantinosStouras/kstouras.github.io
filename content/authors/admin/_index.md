@@ -35,12 +35,6 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/stourask
-  - icon: brands/instagram
-    url: ''
-  - icon: brands/github
-    url: ''
-  - icon: brands/linkedin
-    url: ''
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=FzyFf3kAAAAJ
   - icon: academicons/orcid
